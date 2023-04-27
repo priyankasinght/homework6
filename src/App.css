@@ -1,0 +1,20 @@
+.laptop {
+  background-image: url("./images/laptop.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 85rem 45rem;
+  background-attachment: fixed;
+}
+
+.laptop-screen {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.webpage {
+  width: 52rem;
+  height: 25rem;
+  margin-top: 6rem;
+}
